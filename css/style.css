@@ -1,0 +1,23 @@
+/** demo style **/
+/* UPDATE 可以对样式进行二次优化 */
+.item-foot {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    /* 给出边框使item得以居中 */
+}
+
+.navbar-fixed-bottom {
+    border-top: 1px solid #c0c0c0;
+}
+
+.item-foot-icon {
+    font-size: 20px;
+}
+
+.item-foot-text {
+    display: block;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: 12px;
+}
